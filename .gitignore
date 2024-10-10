@@ -28,3 +28,11 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+
+.env.development
+.env.production
+.env.staging
+.env.test
+package-lock.json
+nginx.conf
+Dockerfile
